@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    color: #2c6e49; /* Un verde oscuro similar al juego */
+    text-align: center;
+}
+
+h3 {
+    color: #555;
+}
+
+.sanctuary {
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #e9f5ee; /* Un verde muy claro */
+}
+
+.sanctuary p {
+    margin-bottom: 10px;
+}
+
+.sanctuary ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.note {
+    background-color: #fff3cd; /* Un amarillo claro */
+    border-left: 5px solid #ffe08a; /* Un amarillo más intenso para el borde */
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+    border-radius: 5px;
+}
